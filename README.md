@@ -1,3 +1,6 @@
+**Note: This repository is archived and no longer maintained. Refer to [this tutorial](https://docs.substrate.io/tutorials/v3/proof-of-existence/)
+to learn how to build a proof of existence dApp.**
+
 # Substrate Proof of Existence Module
 
 This is a simple Substrate runtime module to store online distributed [proof of existence](https://www.proofofexistence.com/) for any file.
